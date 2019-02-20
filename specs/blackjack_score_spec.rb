@@ -37,7 +37,7 @@ describe 'Blackjac Score' do
 
   end
 
-  it 'raises an ArgumentError for scores over 21' do
+  it 'raises an ArgumentError for more than 5 cards in the hand' do
 
   end
 end
